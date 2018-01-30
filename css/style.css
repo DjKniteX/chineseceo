@@ -1,4 +1,7 @@
-
+html, body {
+    width: auto !important;
+    overflow-x: hidden !important;
+  }
 
 .intro-header{
     padding-top: 400px;
